@@ -1,0 +1,13 @@
+1. This is a review of "Projectile motion in relation to angle" by Ma, Christie, and Umesh, submitted as a research article to J S&E. I recommend minor revisions.
+
+2. The title needs to be more informative as to the actual findings. The abstract uses strange choices of words - we never "prove" things we can only disprove; and "ideal" is meaningless; also repeating the authors names in the abstract is odd.
+
+3. Sources need to be provided for statmenets about what Tartaglia or other physicists stated as their theories. Several equations are derived without reference to a text or source. There are several pieces to what Tartaglia is usually credited with, 45-deg and tartaglias "law", a table, and hsapes of trajectories. The authors are not at all clear here which they are considering.
+
+4. In methods and materials, the authors do not give specifics such as source, supplier, specifications for their major equipment thus the work is not replicable. Also the statistics taken are not explained how they were computed. Authors focus on R^2 as the only statistic they consider - why is that?
+
+5. Results needs to refer to specific figures and tables and give more proper statistics than just R^2.
+
+6. Discussion needs references and to be tied more closely to the plotted results and tables. In figure 1 it is never explained what the line is. In table 1 the authors shoul dprovide mean and s.d. to allow obtaining some idea of precision and accuracy.
+
+7. Only a single reference is given - there should be more 
